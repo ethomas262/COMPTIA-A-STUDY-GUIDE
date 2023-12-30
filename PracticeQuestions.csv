@@ -1,4 +1,20 @@
-QuestionPromptExample1,Option1,Option2,Option3,Option4,A
-QuestionPromptExample2,Option1,Option2,Option3,Option4,A
-QuestionPromptExample3,Option1,Option2,Option3,Option4,A
-QuestionPromptExample4,Option1,Option2,Option3,Option4,A
+Which peripheral device is responsible for displaying information on the computer screen?,A. Monitor,B. Printer,C. Keyboard,D. Mouse,A
+What does the term "LAN" stand for in networking?,A. Local Area Network,B. Long-range Access Network,C. Link Access Node,D. Limited Authentication Network,A
+What is the primary function of RAM (Random Access Memory) in a computer?,A. Store temporary data for the CPU,B. Provide long-term storage for the OS,C. Manage network connections,D. Control peripheral devices,A
+Which of the following is an example of an input device?,A. Mouse,B. Printer,C. Monitor,D. External Hard Drive,A
+What does the acronym URL stand for?,A. Uniform Resource Locator,B. Universal Routing Language,C. Unified Reference Link,D. User Registration List,A
+Which component of a computer system is responsible for executing instructions provided by software?,A. CPU,B. RAM,C. GPU,D. Hard Drive,A
+What is the purpose of a network router?,A. Manage internet speed,B. Connect devices within a network,C. Store large amounts of data,D. Provide electrical power to devices,A
+Which file system is commonly used in Windows operating systems?,A. NTFS,B. FAT32,C. ext4,D. HFS+,A
+What is the role of a CMOS battery on a computer's motherboard?,A. Preserve system settings and clock time,B. Enhance graphics performance,C. Provide additional processing power,D. Manage network security,A
+Which type of software allows communication between the user and the computer hardware?,A. Operating System,B. Application Software,C. Firmware,D. Utility Software,A
+What is the purpose of the BIOS (Basic Input/Output System) in a computer?,A. Initialize hardware during the boot process,B. Manage file storage,C. Control user authentication,D. Enhance internet speed,A
+Which cable type is used to connect an external hard drive to a computer for data transfer?,A. USB,B. HDMI,C. Ethernet,D. VGA,A
+What does the term "SSID" refer to in the context of wireless networking?,A. Service Set Identifier,B. Secure System Identification,C. System Security Identifier,D. Service System Identifier,A
+What is the primary function of an SSD (Solid State Drive) in a computer?,A. Provide fast data storage with no moving parts,B. Manage network connections,C. Increase processing speed,D. Store large amounts of data,A
+Which protocol is commonly used for sending and receiving emails?,A. SMTP,B. FTP,C. HTTP,D. DHCP,A
+What is the purpose of a graphics card (GPU) in a computer system?,A. Render images and videos,B. Manage file storage,C. Control network connections,D. Enhance keyboard performance,A
+Which port is commonly used for connecting external storage devices such as USB flash drives?,A. USB,B. HDMI,C. Ethernet,D. VGA,A
+What is the purpose of the Windows Registry in a Windows operating system?,A. Store system configuration information,B. Manage network security,C. Control user authentication,D. Optimize system performance,A
+What is the role of an IP address in networking?,A. Identify a device on a network,B. Encrypt data transmissions,C. Manage file permissions,D. Run software applications,A
+Which security feature is designed to protect against unauthorized access by requiring a user to enter a password?,A. Authentication,B. Authorization,C. Encryption,D. Firewall,A
